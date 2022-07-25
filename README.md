@@ -9,7 +9,9 @@
 По суті, багато з команд Linux CLI потрібно знати бо вони використовуються при розробці. Але теж чимало, що навряд буду використовувавти. 
 
 2.
-Основні повідомлення: 200 OK - вдало оброблений запит, 301 Moved Permanently, 404 Not Found, 403 Forbidden, 401 Unauthorized (4хх -клієнт зробив помилку), 501 Not Implemented, 503 Service Unavailable (5хх - з боку сервера) 
+Основні повідомлення: 200 OK - вдало оброблений запит, 301 Moved Permanently, 404 Not Found, 403 Forbidden, 401 Unauthorized (4хх -клієнт зробив помилку), 501 Not Implemented, 503 Service Unavailable (5хх - з боку сервера)
+
+3. Про HTTPS цікаво
 
 
 
