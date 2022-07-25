@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/4815725/180706975-ee9482f2-c4d1-477f-a7c5-d5106774a837.png)
 ![image](https://user-images.githubusercontent.com/4815725/180711928-d5051504-af86-4939-8da3-4567ac824211.png)
 
-По суті, багато з команд Linux CLI потрібно знати бо вони використовуються при розробці.
+По суті, багато з команд Linux CLI потрібно знати бо вони використовуються при розробці. Але теж чимало, що навряд буду використовувавти. 
 
 2.
 ![image](https://user-images.githubusercontent.com/4815725/180709646-a15408c1-93af-4a3a-aa5c-52abc1006fd4.png)
